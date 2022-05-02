@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodutoo.Android", "Kodutoo\Kodutoo.Android\Kodutoo.Android.csproj", "{6F30AB49-ACD2-4CA3-8C2F-76EC2EE310C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodutoo", "Kodutoo\Kodutoo\Kodutoo.csproj", "{B1F60F73-D498-46D4-90CB-456C2D1FB878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F30AB49-ACD2-4CA3-8C2F-76EC2EE310C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F30AB49-ACD2-4CA3-8C2F-76EC2EE310C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F30AB49-ACD2-4CA3-8C2F-76EC2EE310C9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6F30AB49-ACD2-4CA3-8C2F-76EC2EE310C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F30AB49-ACD2-4CA3-8C2F-76EC2EE310C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F30AB49-ACD2-4CA3-8C2F-76EC2EE310C9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B1F60F73-D498-46D4-90CB-456C2D1FB878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F60F73-D498-46D4-90CB-456C2D1FB878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F60F73-D498-46D4-90CB-456C2D1FB878}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B1F60F73-D498-46D4-90CB-456C2D1FB878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F60F73-D498-46D4-90CB-456C2D1FB878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F60F73-D498-46D4-90CB-456C2D1FB878}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43919B91-417F-42C7-BCD1-D990378A664D}
+	EndGlobalSection
+EndGlobal
